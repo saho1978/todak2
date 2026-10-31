@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 - 지친 직장인을 위한 힐링 고민상담소",
+  "description": "오늘 하루도 버텨낸 직장인을 위한 따뜻한 AI 고민상담과 감정 분석 기반 맞춤형 위로 문구 추천 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
